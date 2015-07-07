@@ -1,0 +1,31 @@
+﻿生成启动时间为 2015/5/14 20:05:45。
+     1>项目“C:\Users\biyunqiang\Desktop\VS_Projects\voice_client\voice_client\voice_client.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\voice_client.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\dshow\Include /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _CONSOLE /D __WINDOWS_DS__ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt client.cpp
+         client.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\biyunqiang\Desktop\VS_Projects\voice_client\Debug\voice_client.exe" /INCREMENTAL /NOLOGO dsound.lib opus.lib celt.lib silk_common.lib silk_float.lib opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\voice_client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\biyunqiang\Desktop\VS_Projects\voice_client\Debug\voice_client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\biyunqiang\Desktop\VS_Projects\voice_client\Debug\voice_client.lib" /MACHINE:X86 Debug\voice_client.exe.embed.manifest.res
+         Debug\client.obj
+         Debug\asio.obj
+         Debug\asiodrivers.obj
+         Debug\asiolist.obj
+         Debug\iasiothiscallresolver.obj
+         Debug\RtAudio.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\voice_client.exe.embed.manifest" /manifest Debug\voice_client.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         voice_client.vcxproj -> C:\Users\biyunqiang\Desktop\VS_Projects\voice_client\Debug\voice_client.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\voice_client.unsuccessfulbuild”。
+         正在对“Debug\voice_client.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\biyunqiang\Desktop\VS_Projects\voice_client\voice_client\voice_client.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.11

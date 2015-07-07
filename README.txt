@@ -1,0 +1,1 @@
+a p2p voice chat demo changed from a linux program that used in windows VS2010,please find the orignal program in the file voice-chat-master-linux, this demo use the same server in linux as the orignal program
